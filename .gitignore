@@ -101,4 +101,4 @@ ENV/
 .mypy_cache/
 
 # configs
-*/config/database.py
+/src/api_test/api_test/config/database.py
